@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ANKIT258official
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ANKIT258official/ANKIT258official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const AboutMe = {
+  Name: "Ayano",
+  Age: 17,
+  Pronouns: ["He", "Him"],
+  Hobbies: [
+   "Coding", "Chess",,"video editing "
+Coding" , "shayari writing","2am thoughts express in papers...!!"
+ "Blogging", "Learning New Stuff", "Listening to music" 
+  ]
+}
